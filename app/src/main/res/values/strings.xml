@@ -1,0 +1,11 @@
+<resources>
+
+        <string name="app_name">MADT_Lab_4</string>
+        <string name="notes_view">Notes</string>
+        <string name="delete_notes_text">Delete note</string>
+        <string name="add_note">Add Note</string>
+        <string name="delete_note">Delete Note</string>
+        <string name="note_text">Text</string>
+        <string name="save_note">Save Note</string>
+
+</resources>
